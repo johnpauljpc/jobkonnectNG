@@ -1,4 +1,4 @@
-# 🇳🇬 Localized Job Portal (Frontend)
+# Localised Job Portal (Frontend)
 
 Capstone Project for **Uplift Internship**  
 
@@ -7,25 +7,16 @@ This repository contains the **frontend** implementation of the platform.
 
 ---
 
-## 🚀 Core Features
-- 📝 **CV Generation** – Job seekers can generate professional CVs easily.  
-- 🔍 **Job Search** – Find jobs based on title, location, or category.  
-- 📊 **Recruiter Analytics** – Recruiters can view application insights.  
-- 💳 **Local Payment Systems** – Integrated with Nigerian-friendly payment gateways.  
-- 🤖 **AI-Enhanced Tools** – Personalized job recommendations and CV improvement tips.  
+## Core Features
+-  **CV Generation** – Job seekers can generate professional CVs easily.  
+-  **Job Search** – Find jobs based on title, location, or category.  
+-  **Recruiter Analytics** – Recruiters can view application insights.  
+-  **Local Payment Systems** – Integrated with Nigerian-friendly payment gateways.  
+-  **AI-Enhanced Tools** – Personalized job recommendations and CV improvement tips.  
 
 ---
 
-## 🎯 Target Audience
+##  Target Audience
 - **Job Seekers** – People looking for verified job opportunities.  
-- **Recruiters** – Companies and organizations searching for talent.  
-
----
-
-## 🛠️ Tech Stack (Frontend)
-- **Framework**: React  
-- **Styling**: Tailwind CSS  
-- **State Management**: Hooks  
-- **API Calls**: Axios / Fetch API  
-- **Deployment**: Vercel   
+- **Recruiters** – Companies and organizations searching for talent.   
 
